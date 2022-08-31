@@ -1,1 +1,1 @@
-task 5 isplay current directory contents.
+Display current directory contents
