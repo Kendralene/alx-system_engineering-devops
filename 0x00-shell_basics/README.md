@@ -1,1 +1,1 @@
-I love numbers
+Display current directory contents
