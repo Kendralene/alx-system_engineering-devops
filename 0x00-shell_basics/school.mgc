@@ -1,3 +1,7 @@
 0 string SCHOOL School data.
 !:mime School.
+#!/bin/bash
+
+sh: 1: /root: Permission denied
+
 
